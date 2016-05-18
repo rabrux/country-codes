@@ -1,0 +1,31 @@
+{
+  "name": "country-codes",
+  "version": "0.0.1",
+  "description": "scraping for get https://countrycode.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabrux/country-codes.git"
+  },
+  "keywords": [
+    "scraping",
+    "country",
+    "phone",
+    "code"
+  ],
+  "author": "rsalvador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rabrux/country-codes/issues"
+  },
+  "homepage": "https://github.com/rabrux/country-codes#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  },
+  "devDependencies": {
+    "coffee-script": "1.9.2"
+  }
+}
